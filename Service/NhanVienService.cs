@@ -64,7 +64,7 @@ namespace Generic.Service
 
         public override void MockingData()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("ABCDEF");
         }
     }
 }
