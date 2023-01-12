@@ -64,7 +64,11 @@ namespace Generic.Service
 
         public override void MockingData()
         {
+<<<<<<< HEAD
             Console.WriteLine("ABCDEFjkagsdjkavbjsdvbaskhjdfv");
+=======
+            Console.WriteLine("ABCDEFGHIKLM");
+>>>>>>> huybc
         }
     }
 }
